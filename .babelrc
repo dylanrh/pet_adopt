@@ -1,6 +1,6 @@
 {
     "presets": [
-        ["@babel1/present-react",
+        ["@babel/preset-react",
             {
                 "runtime": "automatic"
             }
