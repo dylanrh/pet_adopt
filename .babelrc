@@ -1,0 +1,9 @@
+{
+    "presets": [
+        ["@babel1/present-react",
+            {
+                "runtime": "automatic"
+            }
+        ]
+    ]
+}
