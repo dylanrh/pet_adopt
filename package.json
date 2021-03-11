@@ -1,0 +1,23 @@
+{
+  "name": "petadopt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write \"src/**/*.{js, jsx}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylanrh/pet_adopt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylanrh/pet_adopt/issues"
+  },
+  "homepage": "https://github.com/dylanrh/pet_adopt#readme",
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
